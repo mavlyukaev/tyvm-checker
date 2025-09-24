@@ -1,0 +1,5 @@
+RoxStar | /html/body/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[4]/div[1]/div/a[1]/div[3]/div | UQA9q-v78nDcfvPdnUpK4-sAPwYW8V-ZVLhkskw-5hA6oUMy
+Лесная Братва | /html/body/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[4]/div[1]/div/a[2]/div[3]/div | UQAcYkkljwaw0gzRFRHzxIywHNddBa8P9nvcQ-Ew-9AX7W_W
+TON Cryptans | /html/body/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[4]/div[1]/div/a[3]/div[3]/div | UQAjn-VXFS1Rbh3OVr-LaTyrcbb6BE91H2tOMfNgUNtGbOWw
+Author_w2 | /html/body/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[4]/div[1]/div/a[4]/div[3]/div | UQDpc8tkuE8B83JZO7tDFPNKJWNDNJIzXmOFERns15nIzw5B
+Author_w1 | /html/body/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[4]/div[1]/div/a[5]/div[3]/div | EQCkwtYkDYxUOtDA5fe1aF1qsjUlUVc2BQIJ1Vfp1aFaVw_J
